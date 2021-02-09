@@ -1,4 +1,6 @@
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5843c551-da9b-487c-a7f0-4913bb1a5a3c/deploy-status)](https://app.netlify.com/sites/ayush-goyal/deploys)
+
+### <a href="https://ayush-goyal.netlify.app/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
